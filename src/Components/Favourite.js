@@ -14,7 +14,7 @@ export default function Favourite() {
             <tr>
               <th scope="col">Name</th>
               <th scope="col">Age</th>
-              <th scope="col">Email</th>
+              <th scope="col">E-mail</th>
               <th scope="col">Batch</th>
               <th scope="col"></th>
             </tr>
